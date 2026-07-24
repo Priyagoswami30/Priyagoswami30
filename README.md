@@ -92,7 +92,7 @@
 
 |              Project              |                 Description             | Status |
 |-----------------------------------|-----------------------------------------|--------|
-| Student management system project | SQL-based analysis project on e-commerce data    | ✅ Done |
+| Student management system project | SQL-based analysis project on e-commerce data    |   ✅ Done |
 |              **                   |                                                  |
 
 
