@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Ankit%20%F0%9F%91%8B&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Priya%20%F0%9F%91%8B&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
 <!-- &desc=Code%20%E2%9A%A1%20Cloud%20%E2%9A%A1%20AI%20%E2%80%94%20where%20curiosity%20meets%20craft&descAlignY=58&descSize=18" -->
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
