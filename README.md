@@ -28,7 +28,6 @@
   "spec"        : ["Cloud Computing", "Machine Learning"],
   "focus"       : "SWE / SDE / MLE Placements",
   "stack"       : "MERN + Django + Python AI",
-  "dsa"         : "Java + LeetCode + GFG",
   "creative"    : ["Blender 3D", "Unreal Engine 5", "AI Animation Pipelines"],
   "vibe"        : "chai ☕ + music 🎧 + terminal 💻",
   "status"      : "actively building & grinding 🔥"
@@ -52,7 +51,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- BACKEND -->
 ### ⚙️ Backend & APIs
@@ -66,7 +64,6 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-47A248?style=for-the-badge&logo=SQLite&logoColor=white)
 
 <!-- AI / ML -->
 ### 🤖 AI / ML 
