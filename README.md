@@ -90,9 +90,10 @@
 
 ## 🚧 Currently Building
 
-|              Project              |                 Description                   |
-|-----------------------------------|-----------------------------------------------|
-| Student management system project | SQL-based analysis project on e-commerce data |
+|              Project              |                 Description             | Status |
+
+|-----------------------------------|-----------------------------------------|--------| 
+| Student management system project | SQL-based analysis project on e-commerce data | ✅ Done |
 |              **                   |                                               |
 
 
