@@ -238,28 +238,35 @@ jobs:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-</div>
+</div
+
+---
+
+## 🗺️ My Journey
 
 
- ##🗺️ My Journey
-
-'''
 2023 ──▶️  Started B.Tech CSE
-          └─ Python foundations | OOP | Problem-solving mindset
+          └─ C++ foundations | OOP | Problem-solving mindset
 
 2024 ──▶️  Web Dev Begins
-          └─ HTML · CSS · JS · MySQL | First real projects
+          └─ HTML · CSS · JS · PHP · MySQL | First real projects
 
 2025 ──▶️  MERN Stack Unlocked
-          └─ React · Node.js  · MongoDB | Git mastery
+          └─ React · Node.js · Express · MongoDB | REST APIs | Git mastery
 
 2026 ──▶️  AI/ML & Advanced Systems
-          └─ Python 
-          └─ scikit-learn · Pandas · Numpy
+          └─ Python · Hugging Face · RAG Pipelines · pgvector · FAiSS
+          └─ PyTorch (CUDA) · XGBoost · scikit-learn · Pandas · Numpy
+          └─ Next.js App Router · JWT Auth (refresh token rotation)
+          └─ Blender 3D · Unreal Engine 5 · AI Animation Systems
+          └─ Claude AI · MCP · Semantic Embeddings
 
 2027 ──▶️  Final Year | Placement Mode 🎯
-          └─ Full stack Grind:  LeetCode 
-          └─ Cloud:Docker · DevOps fundamentals
+          └─ DSA Grind: Java + LeetCode + GFG
+          └─ Cloud: AWS · Docker · DevOps fundamentals
           └─ ML & AI track | Full-stack portfolio polish
           └─ TARGET: SWE / SDE / MLE role
-'''
+
+
+---
+
