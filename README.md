@@ -177,9 +177,9 @@ jobs:
 
  ##🗺️ My Journey
 
-
+'''
 2023 ──▶️  Started B.Tech CSE
-          └─ C++ foundations | OOP | Problem-solving mindset
+          └─ Python foundations | OOP | Problem-solving mindset
 
 2024 ──▶️  Web Dev Begins
           └─ HTML · CSS · JS · MySQL | First real projects
@@ -197,7 +197,7 @@ jobs:
           └─ ML & AI track | Full-stack portfolio polish
           └─ TARGET: SWE / SDE / MLE role
 
-
+'''
 ---
 
 -->
