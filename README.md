@@ -239,3 +239,26 @@ jobs:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
+
+
+ ##🗺️ My Journey
+
+
+2023 ──▶️  Started B.Tech CSE
+          └─ Python foundations | OOP | Problem-solving mindset
+
+2024 ──▶️  Web Dev Begins
+          └─ HTML · CSS · JS · MySQL | First real projects
+
+2025 ──▶️  MERN Stack Unlocked
+          └─ React · Node.js  · MongoDB | Git mastery
+
+2026 ──▶️  AI/ML & Advanced Systems
+          └─ Python 
+          └─ scikit-learn · Pandas · Numpy
+
+2027 ──▶️  Final Year | Placement Mode 🎯
+          └─ Full stack Grind:  LeetCode 
+          └─ Cloud:Docker · DevOps fundamentals
+          └─ ML & AI track | Full-stack portfolio polish
+          └─ TARGET: SWE / SDE / MLE role
