@@ -175,7 +175,7 @@ jobs:
 
 ---
 
-## 🗺️ My Journey
+ 🗺️ My Journey
 
 ```
 2023 ──▶️  Started B.Tech CSE
