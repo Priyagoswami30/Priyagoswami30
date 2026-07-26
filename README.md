@@ -175,9 +175,9 @@ jobs:
 
 ---
 
- 🗺️ My Journey
+ ##🗺️ My Journey
 
-```
+
 2023 ──▶️  Started B.Tech CSE
           └─ C++ foundations | OOP | Problem-solving mindset
 
@@ -196,7 +196,7 @@ jobs:
           └─ Cloud:Docker · DevOps fundamentals
           └─ ML & AI track | Full-stack portfolio polish
           └─ TARGET: SWE / SDE / MLE role
-```
+
 
 ---
 
